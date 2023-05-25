@@ -1,3 +1,5 @@
 ^mortality\.CUSUM\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^doc$
+^Meta$

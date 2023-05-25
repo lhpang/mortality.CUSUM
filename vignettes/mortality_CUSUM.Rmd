@@ -1,0 +1,19 @@
+---
+title: "mortality_CUSUM"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{mortality_CUSUM}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(mortality.CUSUM)
+```
