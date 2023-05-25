@@ -1,0 +1,11 @@
+Package: mortality.CUSUM
+Title: plots the CUSUM plots to monitor medical centers' performance using survival outcomes
+Version: 1.0.0
+Authors@R: 
+    person("Longhao", "Pang", , "lhpang@umich.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: `mortality-CUSUM` is an R package for drawing CUSUM plots to monitor a medical center's survival outcomes. CUSUM (CUmulative SUMmation) is a real-time monitor for CUmulative SUMmation of risk-adjusted survival outcomes. We provide O-E CUSUM, one-sided CUSUM, V-mask and reversed CUSUM plots. The resulting plot is designed to simultaneously monitor for failure time outcomes that are worse than expected or better than expected..
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
